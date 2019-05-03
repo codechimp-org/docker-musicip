@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Justifiably <justifiably@ymail.com>
+MAINTAINER CodeChimp <andrew@codechimp.org>
 
 ENV DEBIAN_FRONTEND=noninteractive
 
